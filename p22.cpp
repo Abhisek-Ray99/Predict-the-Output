@@ -10,4 +10,4 @@ int main(){
 }
 
 
-output ------------> 10
+output ------------> 10 or may error
